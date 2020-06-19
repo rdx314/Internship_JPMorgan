@@ -1,0 +1,11 @@
+client3.py
+   - getDataPoint
+       change the formula of price to
+       (bid_price + ask_price) / 2
+
+   - getRatio
+        if price_b == 0 :
+		    return
+	    return price_a / price_b
+   - main
+        print ("Ratio %s" % getRatio(price['ABC'], price['DEF']))

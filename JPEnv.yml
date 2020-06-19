@@ -1,0 +1,5 @@
+name: JPintern
+channels:
+  - defaults
+prefix: /home/rounak/miniconda3/envs/JPintern
+
